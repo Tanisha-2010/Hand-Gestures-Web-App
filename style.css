@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(#fbb9c5, #fdd0b1, #f9efc7, #c3efbf, #b8def6, #c5bbde);
+}
+
+span {
+    font-size: 25px;
+}
+
+.heading {
+    font-size: 20px;
+    font-family: 'Rubik Iso', cursive;
+    letter-spacing: 3px;
+    border-radius: 10px;
+    background-image: linear-gradient(#f9efc7, #c3efbf);
+    border: 2px black dashed;
+}
+
+.note {
+    font-size: 22px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+
+#note {
+    font-size: 20px;
+    color: black;
+    font-family: 'Are You Serious', cursive;
+}
+
+#camera,
+#result {
+    border: 3px dashed white;
+    height: 300px;
+    width: 350px;
+}
+
+button {
+    font-size: 17px;
+    background-color: #f9efc7;
+    border-radius: 5px;
+    border: dotted 3px;
+}
